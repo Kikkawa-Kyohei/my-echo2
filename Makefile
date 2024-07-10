@@ -1,5 +1,5 @@
 NAME := my-echo
-REPOSITORY := my-echo2/$(NAME)
+REPOSITORY := Kikkawa-Kyohei/my-echo2/$(NAME)
 TAG := 20240710
 GOOS := linux
 GOARCH := amd64
