@@ -1,6 +1,6 @@
-NAME := my-echo2
+NAME := my-echo
 REPOSITORY := Kikkawa855/my-echo2/$(NAME)
-TAG := 20240710
+TAG := 0.1
 GOOS := linux
 GOARCH := amd64
 
